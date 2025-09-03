@@ -38,7 +38,7 @@ Incluye:
    - Requisitos no funcionales (opcional)
    - Pruebas de aceptación de reglas de negocio
 
-**Fecha de entrega:** 15/10/2024 23:59
+**Fecha de entrega:** 16/10/2025 23:59
 
 ---
 
@@ -52,7 +52,7 @@ Incluye el contenido del primer entregable mejorado, añadiendo:
 6. Matrices de trazabilidad:
    - Matriz de trazabilidad entre los elementos del modelo conceptual y los requisitos de información y reglas de negocio.
 
-**Fecha de entrega:** 5/11/2024 23:59
+**Fecha de entrega:** 6/11/2025 23:59
 
 ---
 
@@ -77,7 +77,7 @@ Incluye el contenido del primer y segundo entregables mejorado, añadiendo:
 - Script de creación de triggers. (4.scripts_triggers.sql)
 - Script de inserción de datos de prueba. (5.script_poblado_tablas.sql)
 
-**Fecha de entrega:** 16/12/2024 23:59
+**Fecha de entrega:** 15/12/2025 23:59
 
 ## Norma del Proyecto
 
@@ -94,7 +94,6 @@ Incluye el contenido del primer y segundo entregables mejorado, añadiendo:
 ## Revisiones y defensa del proyecto
 
 - Los entregables 1 y 2 serán revisados por el tutor del proyecto.
-- Se informará a los alumnos de la revisión en la clase de laboratorio siguiente a la entrega.
 - El grupo completo debe asistir a la revisión de entregables (salvo causa debidamente justificada).
 - El entregable 3 deberá ser defendido por el grupo frente a las preguntas del tutor, quien podrá realizar cuestiones de manera individual para determinar la autoría y calificación.
 
