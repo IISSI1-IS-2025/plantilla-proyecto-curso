@@ -91,7 +91,20 @@ para [razón]
 | RN-2  | X          | X          | X          |            |
 | ...   |            |            |            |            |
 
+-- fin entregable 2 --
 
+## 7. Modelo relacional en 3FN
+
+- Relaciones obtenidas al aplicar la transformación del modelo conceptual.
+
+### 7.1.  Justificación de la estrategia de transformación de jerarquías
+
+- si se identificaron jerarquías en el MC.
+
+
+### 8. Matriz de trazabilidad MC/SQL (opcional):
+
+- Restricciones sobre el MC / Elementos del modelo tecnológico (SQL) (Triggers, checks, etc.)
 - Incluir Reglas de negocio — Constraints/Triggers en las matrices de trazabilidad para el entregable 3
 
 |        | RN-1   | RN-2   | RN-3   | RN-4   |
@@ -108,17 +121,8 @@ para [razón]
 | CONST-3 |        | X      |        | X      |
 | CONST-4 |        |        | X      |        |
 
-
--- fin entregable 2 --
-
-## 7. Modelo relacional en 3FN
-
-- Relaciones obtenidas al aplicar la transformación del modelo conceptual.
-
-### 7.1.  Justificación de la estrategia de transformación de jerarquías
-
-- si se identificaron jerarquías en el MC.
-
 -- fin entregable 3 --
 
 ## Referencias
+
+
