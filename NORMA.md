@@ -65,9 +65,9 @@ Incluye el contenido del primer y segundo entregables mejorado, añadiendo:
 - Relaciones obtenidas al aplicar la transformación del modelo conceptual.
 - Justificación de la estrategia de transformación de jerarquías (si se identificaron jerarquías en el MC).
 
-8. Matrices de trazabilidad (opcional):
+8. Matriz de trazabilidad MC/SQL (opcional):
 
-- Reglas de negocio — Incluir Constraints/Triggers
+- Restricciones sobre el MC / Elementos del modelo tecnológico (SQL) (Triggers, checks, etc.)
 
 9. Scripts:
 
