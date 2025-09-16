@@ -81,7 +81,7 @@ para [razón]
 
 - Matriz de trazabilidad entre los elementos del modelo conceptual y los requisitos.
 
-|       | Entidad1   | Entidad2   | Entidad3   | Entidad4   |
+|       | EntidadX   | AsociaciónX  | RestricciónX  | Entidad2 ...   | 
 |:------|:-----------|:-----------|:-----------|:-----------|
 | RI-1  | X          | X          | X          | X          |
 | RI-2  |            | X          |            | X          |
@@ -107,20 +107,22 @@ para [razón]
 - Restricciones sobre el MC / Elementos del modelo tecnológico (SQL) (Triggers, checks, etc.)
 - Incluir Reglas de negocio — Constraints/Triggers en las matrices de trazabilidad para el entregable 3
 
-|        | RN-1   | RN-2   | RN-3   | RN-4   |
+|       | EntidadX   | AsociaciónX  | RestricciónX  | Entidad2 ...   | 
 |:-------|:-------|:-------|:-------|:-------|
+| TABLA-1 |        |        |        |        |
+| TABLA-2 |        |        |        |        |
+| TABLA-3 |        |        |        |        |
+| TABLA-4 |        |        |        |        |
 | TRIG-1 |        |        |        |        |
 | TRIG-2 | X      | X      |        | X      |
 | TRIG-3 |        | X      |        | X      |
 | TRIG-4 |        |        | X      |        |
-
-|        | RN-1   | RN-2   | RN-3   | RN-4   |
-|:-------|:-------|:-------|:-------|:-------|
 | CONST-1 |        |        |        |        |
 | CONST-2 | X      | X      |        | X      |
 | CONST-3 |        | X      |        | X      |
 | CONST-4 |        |        | X      |        |
 
+Se consideran todo tipo de constraints declarativas (aquellas definidas durante el CREATE TABLE).
 -- fin entregable 3 --
 
 ## Referencias
